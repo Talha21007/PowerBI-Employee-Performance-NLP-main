@@ -93,7 +93,4 @@ The main goal of this project is to generate realistic synthetic employee, perfo
 
 This project demonstrates how organizations can combine **synthetic data, sentiment analysis, and performance metrics** into a full workforce analytics system, providing actionable insights for managers, HR teams, and analysts.
 
-## 👤 Author
 
-**Owais Ali**  
-🔗 [LinkedIn](https://linkedin.com/in/owais-ali-a1y)
